@@ -1,3 +1,18 @@
+<h1 align="center">Hi 👋, I'm Mahmudul Haque Sakib</h1>
+<h3 align="center">AI / Machine Learning Enthusiast | Data Science Graduate | Flutter Developer</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SAKIB0004&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
+
+<p align="center">
+  <a href="mahmudulhaque540@gmail.com">📧 Email</a> •
+  <a href="https://www.linkedin.com/in/mhsakib0004/">LinkedIn</a> •
+  <a href="https://www.kaggle.com/mhsakib4">Kaggle</a>
+</p>
+
+---
+
 # 💫 About Me:
 🔭 I’m currently working on  <br>• End-to-end Machine Learning projects (data → model → API → deployment)  <br>• Applying ML models in real-world use cases  <br><br>👯 I’m looking to collaborate on  <br>• AI / Machine Learning projects  <br>• Open-source data science or ML tools  <br>• ML-powered mobile or web applications  <br><br>🤝 I’m looking for help with  <br>• MLOps (Docker, CI/CD, model deployment)  <br>• Improving model performance & scalability  <br><br>🌱 I’m currently learning. <br>• FastAPI, Docker, ML deployment  <br><br>💬 Ask me about  <br>• Data Science & Machine Learning  <br>• Python, ML algorithms, model evaluation  <br>• Flutter app development  <br><br>⚡ Fun fact  <br>• I enjoy turning ML models into real applications 🚀<br>
 
