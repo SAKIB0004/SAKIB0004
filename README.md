@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm MAHMUDUL HAQUE SAKIB</h1>
-<h3 align="center">AI / ML Enthusiast | CSE Graduate | Flutter Developer</h3>
+<h1 align="center"><i>Hi 👋, I'm Mahmudul Haque Sakib</i></h1>
+<h3 align="center">AI / ML Engineer Aspirant | CSE Graduate | Flutter Developer</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SAKIB0004&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=SAKIB0004&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 <p align="center">
@@ -17,36 +17,28 @@
   </a>
 </p>
 
-
 ---
 
-## 🚀 Summary
+## 🚀 Professional Summary
 
 I am a **Computer Science & Engineering graduate from East West University** with a strong focus on **Artificial Intelligence, Machine Learning, and Large Language Models**.
 
-I enjoy building **end-to-end AI systems**, conducting **applied research**, and translating complex models into **real-world, production-ready solutions**.
+I specialize in building **end-to-end ML systems**—from data preprocessing and model development to API integration and deployment—and enjoy transforming complex models into **production-ready, real-world solutions**.
 
-I am actively seeking **job or research opportunities** in **AI, Machine Learning, Data Science, and Software Engineering**, where I can contribute, learn, and grow with impactful teams.
+I am actively seeking **AI/ML Engineer, Data Scientist, or Research-oriented roles** where I can contribute to impactful projects while continuing to grow technically.
 
 ---
 
 ## 👨‍💻 About Me
 
-I am a **Computer Science & Engineering graduate from East West University** with a strong interest in **Artificial Intelligence and Machine Learning**. I focus on building **end-to-end machine learning systems**, from data preprocessing and model development to API integration and deployment.
-
-- 🔭 Currently working on **production-ready ML projects**, covering data → model → API → deployment  
-- 🤖 Aspiring **AI/ML Engineer**, with a focus on **Natural Language Processing (NLP)** and **Computer Vision**  
-- 🧠 Solved **700+ algorithmic problems** across Codeforces, CodeChef and online judges
-- 🏆 **Pupil on Codeforces** | **2 Star on CodeChef**   
-- 📱 Experienced **Flutter Developer**, building cross-platform mobile applications for Android and iOS  
-- ⚙️ Actively learning **MLOps**, including FastAPI, Docker, CI/CD pipelines, and scalable model deployment  
-- 🤝 Open to collaborating on **AI/ML projects**, open-source initiatives, and ML-powered applications  
-- 🚀 Passionate about transforming machine learning models into **real-world, impactful solutions**
-
----
-
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/uHST39vP) 
+- 🎓 **CSE Graduate** from *East West University*
+- 🤖 Aspiring **AI/ML Engineer**, focused on **NLP & Computer Vision**
+- 🔭 Building **production-ready ML projects** (data → model → API → deployment)
+- 🧠 Solved **700+ algorithmic problems** across Codeforces, CodeChef, and other online judges
+- 🏆 **Pupil (Codeforces)** | **2★ CodeChef**
+- 📱 **Flutter Developer**, building cross-platform Android & iOS applications
+- ⚙️ Learning **MLOps**: Docker, MLflow, CI/CD, scalable model deployment
+- 🤝 Open to **AI/ML collaborations, open-source projects, and research work**
 
 ---
 
@@ -60,8 +52,6 @@ I am a **Computer Science & Engineering graduate from East West University** wit
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![SHAP](https://img.shields.io/badge/SHAP-5C2D91?style=for-the-badge)
 ![LIME](https://img.shields.io/badge/LIME-00C853?style=for-the-badge)
 ![CUDA](https://img.shields.io/badge/CUDA-000000?style=for-the-badge&logo=nvidia&logoColor=green)
@@ -97,17 +87,7 @@ I am a **Computer Science & Engineering graduate from East West University** wit
 
 ---
 
-### 💻 Programming Languages & Tools
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
-
----
-
-## 🌐 Find Me On
+## 🌐 Technical Profiles
 
 <p align="left">
   <a href="https://codeforces.com/profile/L0K11">
@@ -126,30 +106,12 @@ I am a **Computer Science & Engineering graduate from East West University** wit
 
 ---
 
-## 💬 Ask Me About
+## 📊 GitHub Stats
 
-- Data Science & Machine Learning
-- ML algorithms & model evaluation
-- Competitive programming
-- Flutter app development
-
----
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=SAKIB0004&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=SAKIB0004&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SAKIB0004&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=light)
-
----
-[![](https://visitcount.itsvg.in/api?id=SAKIB0004&icon=0&color=0)](https://visitcount.itsvg.in)
+![](https://github-readme-stats.vercel.app/api?username=SAKIB0004&theme=dark&hide_border=false)
+![](https://nirzak-streak-stats.vercel.app/?user=SAKIB0004&theme=dark&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SAKIB0004&layout=compact&theme=dark)
 
 ---
 
 ⚡ **Fun Fact:** I enjoy transforming machine learning models into real-world applications 🚀
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
