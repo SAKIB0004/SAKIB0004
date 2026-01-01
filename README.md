@@ -1,15 +1,22 @@
-<h1 align="center">Hi 👋, I'm Mahmudul Haque Sakib</h1>
-<h3 align="center">AI / Machine Learning Enthusiast | Data Science Graduate | Flutter Developer</h3>
+<h1 align="center">Hi 👋, I'm MAHMUDUL HAQUE SAKIB</h1>
+<h3 align="center">AI / ML Enthusiast | CSE Graduate | Flutter Developer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=SAKIB0004&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 <p align="center">
-  <a href="mahmudulhaque540@gmail.com">📧 Email</a> •
-  <a href="https://www.linkedin.com/in/mhsakib0004/">LinkedIn</a> •
-  <a href="https://www.kaggle.com/mhsakib4">Kaggle</a>
+  <a href="mailto:mahmudulhaque540@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/mhsakib0004/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://www.kaggle.com/mhsakib4">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
+  </a>
 </p>
+
 
 ---
 
