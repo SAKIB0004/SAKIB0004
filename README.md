@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm <i>Mahmudul Haque Sakib</i></h1>
-<h3 align="center">AI / ML Engineer Aspirant | CSE Graduate | Flutter Developer</h3>
+<h3 align="center">AI / ML Engineer | CSE Graduate | Flutter Developer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=SAKIB0004&label=Profile%20Views&color=0e75b6&style=flat" />
