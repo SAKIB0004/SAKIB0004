@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm <i>Mahmudul Haque Sakib</i></h1>
+<h1 align="center">Hi, I'm <i>Mahmudul Haque Sakib</i></h1>
 <h3 align="center">AI / ML Engineer | CSE Graduate | Flutter Developer</h3>
 
 <p align="center">
